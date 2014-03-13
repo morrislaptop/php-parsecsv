@@ -1,6 +1,6 @@
 {
-    "name": "jimeh/php-parsecsv",
-    "description": "CSV data parser for PHP",
+    "name": "morrislaptop/php-parsecsv",
+    "description": "CSV data parser for PHP, from https://github.com/jimeh/php-parsecsv",
     "license": "MIT",
     "authors": [
         {
