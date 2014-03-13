@@ -1,0 +1,14 @@
+{
+    "name": "jimeh/php-parsecsv",
+    "description": "CSV data parser for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Craig Morris",
+            "email": "craig.michael.morris@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
