@@ -1,17 +1,17 @@
 {
-    "name": "morrislaptop/php-parsecsv",
-    "description": "CSV data parser for PHP, from https://github.com/jimeh/php-parsecsv",
+    "name": "parsecsv/php-parsecsv",
+    "description": "CSV data parser for PHP",
     "license": "MIT",
     "authors": [
         {
-            "name": "Craig Morris",
-            "email": "craig.michael.morris@gmail.com"
+            "name": "Jim Myhrberg",
+            "email": "contact@jimeh.me"
         }
     ],
-    "require": {
-
-    },
     "autoload": {
         "classmap": ["."]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
     }
 }
